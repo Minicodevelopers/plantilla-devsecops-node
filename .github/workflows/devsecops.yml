@@ -47,4 +47,5 @@ jobs:
         if: github.ref == 'refs/heads/main' && github.event_name == 'push'
         env:
           DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          GITLEAKS_LICENSE: ${{ secrets.GITLEAKS_LICENSE }}
         run: echo "Desplegando con credencial almacenada como secreto (valor oculto)"
