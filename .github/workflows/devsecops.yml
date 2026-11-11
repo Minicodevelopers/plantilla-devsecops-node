@@ -1,4 +1,3 @@
-```yaml
 name: CI/CD DevSecOps Pipeline
 
 on:
@@ -57,4 +56,3 @@ jobs:
           DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         run: |
           echo "Desplegando con credencial almacenada como secreto (valor oculto)"
-```
