@@ -7,3 +7,8 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => console.log(`Servidor en puerto ${PORT}`));
+
+app.get('/user', (req, res) => {
+  const query = "SELECT * FROM users WHERE id = " + req.query.id;
+  res.send(query);
+});
