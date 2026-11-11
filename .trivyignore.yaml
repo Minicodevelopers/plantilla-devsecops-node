@@ -1,58 +1,71 @@
+
 vulnerabilities:
-  # brace-expansion
+  # =====================================
+  # BRACE-EXPANSION
+  # =====================================
   - id: CVE-2026-102276
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para dependencia brace-expansion"
+    statement: "Excepcion temporal para brace-expansion"
 
   - id: CVE-2026-102278
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para dependencia brace-expansion"
+    statement: "Excepcion temporal para brace-expansion"
 
   - id: CVE-2026-13149
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para dependencia brace-expansion"
+    statement: "Excepcion temporal para brace-expansion"
 
   - id: CVE-2026-14257
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para dependencia brace-expansion"
+    statement: "Excepcion temporal para brace-expansion"
 
   - id: CVE-2026-69152
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para dependencia brace-expansion"
+    statement: "Excepcion temporal para brace-expansion"
 
-  # ip-address
+  # =====================================
+  # IP-ADDRESS
+  # =====================================
   - id: CVE-2026-69192
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para dependencia ip-address"
+    statement: "Excepcion temporal para ip-address"
 
-  # pacote
+  # =====================================
+  # PACOTE
+  # =====================================
   - id: CVE-2026-9496
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para dependencia pacote"
+    statement: "Excepcion temporal para pacote"
 
-  # picomatch
+  # =====================================
+  # PICOMATCH
+  # =====================================
   - id: CVE-2026-33671
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para dependencia picomatch"
+    statement: "Excepcion temporal para picomatch"
 
-  # sigstore
+  # =====================================
+  # SIGSTORE
+  # =====================================
   - id: CVE-2026-48815
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para dependencia sigstore"
-    
-    # Excepciones temporales para undici
+    statement: "Excepcion temporal para sigstore"
+
+  # =====================================
+  # UNDICI
+  # =====================================
   - id: CVE-2026-109383
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para undici 6.28.0"
+    statement: "Excepcion temporal para undici"
 
   - id: CVE-2026-109869
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para undici 6.28.0"
+    statement: "Excepcion temporal para undici"
 
   - id: CVE-2026-19534
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para undici 6.28.0"
+    statement: "Excepcion temporal para undici"
 
   - id: CVE-2026-87018
     expired_at: 2026-12-10
-    statement: "Excepcion temporal para undici 6.28.0"
+    statement: "Excepcion temporal para undici"
