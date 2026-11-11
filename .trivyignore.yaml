@@ -1,0 +1,41 @@
+vulnerabilities:
+  # brace-expansion
+  - id: CVE-2026-102276
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para dependencia brace-expansion"
+
+  - id: CVE-2026-102278
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para dependencia brace-expansion"
+
+  - id: CVE-2026-13149
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para dependencia brace-expansion"
+
+  - id: CVE-2026-14257
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para dependencia brace-expansion"
+
+  - id: CVE-2026-69152
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para dependencia brace-expansion"
+
+  # ip-address
+  - id: CVE-2026-69192
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para dependencia ip-address"
+
+  # pacote
+  - id: CVE-2026-9496
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para dependencia pacote"
+
+  # picomatch
+  - id: CVE-2026-33671
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para dependencia picomatch"
+
+  # sigstore
+  - id: CVE-2026-48815
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para dependencia sigstore"
