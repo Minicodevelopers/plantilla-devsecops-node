@@ -39,3 +39,20 @@ vulnerabilities:
   - id: CVE-2026-48815
     expired_at: 2026-12-10
     statement: "Excepcion temporal para dependencia sigstore"
+    
+    # Excepciones temporales para undici
+  - id: CVE-2026-109383
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para undici 6.28.0"
+
+  - id: CVE-2026-109869
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para undici 6.28.0"
+
+  - id: CVE-2026-19534
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para undici 6.28.0"
+
+  - id: CVE-2026-87018
+    expired_at: 2026-12-10
+    statement: "Excepcion temporal para undici 6.28.0"
